@@ -77,7 +77,7 @@ text-align:center;line-height:40px}
 
 		  </td>  </tr>
 
-	</table>
+	</table> 
 
 		<div>因應藥局需輪班，暫區分為白班及晚班及小夜班</div>
 	<table class="table">  
