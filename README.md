@@ -48,7 +48,7 @@ text-align:center;line-height:40px}
 	<div class="box">
 	    <div class="title">為了成為工程師，曾經做過什麼努力？</div>
 	    </div>
-	 <div>誠實說，我尚未做了甚麼明確的努力，但我一直在尋覓一個完整的路，但我一直在尋覓一個完整的路。<br/>
+	 <div>誠實說，我尚未做了甚麼明確的努力，但我一直在尋覓一條筆直完整的路。<br/>
 從PTT軟體版；soho、codejob看需求；
 買了python蟒蛇書；也因為朋友寫外掛，在說服下請朋友透過支付寶買了大陸鬱金香論壇VIP；
 在youtuber發現小甲魚教學彙編語言；udemy加入了很多免費課程，但最終上面這些都未能持續。<br/>
